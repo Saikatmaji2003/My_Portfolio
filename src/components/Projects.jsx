@@ -13,7 +13,7 @@ const Projects = () => {
     {
       title: "RideSwift",
       description: "RideSwift is a mobile-first ride-booking app inspired by Uber, developed using React and Tailwind CSS. It offers a sleek, intuitive interface optimized for mobile users, simulating real-time ride requests and booking flows.",
-      githubLink: "https://github.com/Saikatmaji2003/Uber-Clone",
+      githubLink: "https://github.com/Saikatmaji2003/RideSwift",
     },
     {
       title: "News App",
